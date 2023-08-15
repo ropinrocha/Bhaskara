@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aryan\\Desktop\\github\\github.csproj": {}
+    "C:\\Users\\aryan\\Desktop\\github\\github.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aryan\\Desktop\\github\\github.csproj": {
+    "C:\\Users\\aryan\\Desktop\\github\\github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aryan\\Desktop\\github\\github.csproj",
+        "projectUniqueName": "C:\\Users\\aryan\\Desktop\\github\\github.csproj",
         "projectName": "github",
-        "projectPath": "c:\\Users\\aryan\\Desktop\\github\\github.csproj",
+        "projectPath": "C:\\Users\\aryan\\Desktop\\github\\github.csproj",
         "packagesPath": "C:\\Users\\aryan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aryan\\Desktop\\github\\obj\\",
+        "outputPath": "C:\\Users\\aryan\\Desktop\\github\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
